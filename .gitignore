@@ -1,0 +1,51 @@
+# eclipse files
+.settings
+.classpath
+.project
+.tomcatplugin
+.externalToolBuilders
+
+# idea files
+*.iml
+.idea
+
+# mp3 file
+.mp3
+.mp4
+.wav
+
+# OS files
+.DS_Store
+
+# maven files
+target
+
+# web project files
+classes
+/work
+/**/lib/
+/**/classes
+.iml
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
